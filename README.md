@@ -1,7 +1,7 @@
 # MikserCompany Recovery Project ports collection
 ## Supported Devices
-[Google Pixel 2 XL (taimen)](images/mcrp-3.2.3-1-taimen.img)
-
+- [Google Pixel 2 XL (taimen)](images/mcrp-3.2.3-1-taimen.img)
+- [Xiaomi Redmi Note 4/4X (mido)](images/mcrp-3.2.3-1-mido.img)
 ## Contributing
 While contributing to this repo, please use following image naming scheme: \
 ```mcrp-<base twrp verion>-codename.img```
